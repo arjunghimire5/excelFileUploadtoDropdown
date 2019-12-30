@@ -1,0 +1,6 @@
+D:\PCS\WebApplication2\WebApplication2\bin\WebApplication2.dll
+D:\PCS\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+D:\PCS\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+D:\PCS\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+D:\PCS\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+D:\PCS\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
